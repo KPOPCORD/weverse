@@ -1,0 +1,59 @@
+[interview]
+title = "Weverse Magazine ─ INTERVIEW"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=1"
+entrySelector = "section.sub_article_list.article_list.col1 div.article_item.typeA"
+titleSelector = "div.dec a.tit"
+linkSelector = "div.dec a"
+contentSelector = "div.dec div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[feature]
+title = "Weverse Magazine ─ FEATURE"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=6"
+entrySelector = "section.sub_article_list.article_list.col1 div.article_item.typeA"
+titleSelector = "div.dec a.tit"
+linkSelector = "div.dec a"
+contentSelector = "div.dec div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[review]
+title = "Weverse Magazine ─ REVIEW"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=2"
+entrySelector = "section.sub_article_list.article_list.col1 div.article_item.typeA"
+titleSelector = "div.dec a.tit"
+linkSelector = "div.dec a"
+contentSelector = "div.dec div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[firstview]
+title = "Weverse Magazine ─ FIRST+VIEW"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=5"
+entrySelector = "section.sub_article_list.article_list.col1 div.article_item.typeA"
+titleSelector = "div.dec a.tit"
+linkSelector = "div.dec a"
+contentSelector = "div.dec div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[now]
+title = "Weverse Magazine ─ NOW"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=7"
+entrySelector = "section.sub_article_list.article_list.col1 div.article_item.typeA"
+titleSelector = "div.dec a.tit"
+linkSelector = "div.dec a"
+contentSelector = "div.dec div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
+
+[special]
+title = "Weverse Magazine ─ SPECIAL"
+url = "https://magazine.weverse.io/article/list?lang=ko&colca=3"
+entrySelector = "section.sub_article_list.article_list.col1 div.article_item.typeA"
+titleSelector = "div.dec a.tit"
+linkSelector = "div.dec a"
+contentSelector = "div.dec div.date"
+imageSelector = "div.img > a > img"
+waitUntil = "networkidle"
