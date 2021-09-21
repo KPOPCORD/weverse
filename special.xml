@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Weverse Magazine ─ SPECIAL</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 21 Sep 2021 22:36:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS와 ARMY, 어둠을 밝히는 우리의 소우주]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;num=1</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;num=1</guid>
+            <pubDate>Tue, 21 Sep 2021 22:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[2020.09.21]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202009/20200921QJSVqUH-sN2.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
