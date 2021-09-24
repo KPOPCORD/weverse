@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 17:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 05:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
             <content:encoded><![CDATA[‘빅히트의 정도전’은 어떻게 유튜브에서 새 터를 찾았나]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210907MYYFUvebg-e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리 아일리시의 슬픔과 성장 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=234</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=234</guid>
-            <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[삶은 계속된다. 유명해진 뒤에도]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210906NZg5dFL0O0C5g.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -384,6 +376,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201020PhC3ysoMHyk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] 앨리스 달튼 브라운 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=244</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=244</guid>
+            <pubDate>Fri, 24 Sep 2021 05:37:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210924P026x7kShJUuU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] 드레이크의 전략 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=243</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=243</guid>
@@ -454,14 +454,6 @@
             <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.23]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/20210723ZIf6BAeVy8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 컨셔스 랩과 트랩 뮤직의 경계에서, Polo G (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=204</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=204</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.16]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/20210716D7Zz47FaLd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS와 ARMY, 어둠을 밝히는 우리의 소우주 (Weverse Magazine ─ SPECIAL)]]></title>
