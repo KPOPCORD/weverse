@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 17:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 05:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 김 전성시대]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=247</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=247</guid>
+            <pubDate>Fri, 01 Oct 2021 05:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/202110014EADS7Ijh3-.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 앨리스 달튼 브라운]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=244</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.30]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/202107309QtOnl7wZO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 옛날 음악 듣는 사람들이 늘어난다고?]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=208</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=208</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.23]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/20210723ZIf6BAeVy8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

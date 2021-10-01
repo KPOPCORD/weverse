@@ -4,7 +4,7 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 17:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 05:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
             <content:encoded><![CDATA[대중문화 속의 장벽 돌아보기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210913g2LWst0wVJDQ.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] Lizzo의 ‘Rumors’]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=237</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=237</guid>
-            <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[통쾌한 헤이터 디스 곡을 넘어]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210910zECghZLPZ9AP4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

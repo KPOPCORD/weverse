@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 17:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 05:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
             <content:encoded><![CDATA[대중문화 속의 장벽 돌아보기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210913g2LWst0wVJDQ.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] Lizzo의 ‘Rumors’ (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=237</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=237</guid>
-            <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[통쾌한 헤이터 디스 곡을 넘어]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210910zECghZLPZ9AP4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -384,6 +376,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201020PhC3ysoMHyk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] 김 전성시대 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=247</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=247</guid>
+            <pubDate>Fri, 01 Oct 2021 05:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/202110014EADS7Ijh3-.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] 앨리스 달튼 브라운 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=244</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=244</guid>
@@ -454,14 +454,6 @@
             <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.30]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/202107309QtOnl7wZO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 옛날 음악 듣는 사람들이 늘어난다고? (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=208</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=208</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.23]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/20210723ZIf6BAeVy8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS와 ARMY, 어둠을 밝히는 우리의 소우주 (Weverse Magazine ─ SPECIAL)]]></title>
