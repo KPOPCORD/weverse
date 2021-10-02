@@ -4,7 +4,7 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 17:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 05:37:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
             <content:encoded><![CDATA[‘Anti-Romantic’ 챌린지가 보여준 투모로우바이투게더의 내일]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/202109163oPQvWxpXm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Permission to Dance’의 국제 수화에서 배리어프리까지]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=238</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=238</guid>
-            <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[대중문화 속의 장벽 돌아보기]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210913g2LWst0wVJDQ.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
