@@ -4,7 +4,7 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 17:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 05:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
             <content:encoded><![CDATA[자기가 하는 일이 무엇인지 아는 사람의 연기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/202109177yWjSSqefrie2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더가 틱톡에서 흥한다고?]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=239</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=239</guid>
-            <pubDate>Tue, 21 Sep 2021 23:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[‘Anti-Romantic’ 챌린지가 보여준 투모로우바이투게더의 내일]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/202109163oPQvWxpXm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
