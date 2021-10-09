@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 17:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 05:37:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한글로 연결되는 아미의 세계]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=250</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=250</guid>
+            <pubDate>Sat, 09 Oct 2021 05:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.09]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211009r-Xtd4-tpoy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리는 언제쯤 공연장에 다시 갈 수 있을까]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=248</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 22:35:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.23]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210822c1FWvCs0pK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더와 함께 찾아온 세계의 흐름]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=224</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=224</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.17]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210817OqixBN8w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
