@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FIRST+VIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 17:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 05:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ENHYPEN의 빛나는 청량의 순간]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=251</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=251</guid>
+            <pubDate>Wed, 13 Oct 2021 05:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211013rfUPKv4m.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더의 세상이 온다]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=225</link>
