@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 17:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 05:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 한정판 디지털 음원이 있다면]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=253</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=253</guid>
+            <pubDate>Fri, 15 Oct 2021 05:37:41 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211015H3kqPA8M0nU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] Fugees가 돌아왔다!]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=249</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.13]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210813oPkKf0vWA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 평양냉면 먹는 계절]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=219</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=219</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.06]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210806nv_-sJ92oA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

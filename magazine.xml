@@ -4,7 +4,7 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 17:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 05:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 28 Sep 2021 05:37:11 GMT</pubDate>
             <content:encoded><![CDATA[황인찬 시인의 투모로우바이투게더 가사 작업기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210928eoXXq0t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STAYC의 플레이리스트]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=245</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=245</guid>
-            <pubDate>Mon, 27 Sep 2021 05:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[STAYC가 연습생 시절 듣고 힘을 얻은 노래들]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210927mOzG8kycNB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 17:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 05:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 28 Sep 2021 05:37:11 GMT</pubDate>
             <content:encoded><![CDATA[황인찬 시인의 투모로우바이투게더 가사 작업기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210928eoXXq0t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STAYC의 플레이리스트 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=245</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=245</guid>
-            <pubDate>Mon, 27 Sep 2021 05:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[STAYC가 연습생 시절 듣고 힘을 얻은 노래들]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210927mOzG8kycNB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -392,6 +384,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201020PhC3ysoMHyk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] 한정판 디지털 음원이 있다면 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=253</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=253</guid>
+            <pubDate>Fri, 15 Oct 2021 05:37:41 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211015H3kqPA8M0nU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] Fugees가 돌아왔다! (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=249</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=249</guid>
@@ -462,14 +462,6 @@
             <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.13]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210813oPkKf0vWA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 평양냉면 먹는 계절 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=219</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=219</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.06]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210806nv_-sJ92oA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS와 ARMY, 어둠을 밝히는 우리의 소우주 (Weverse Magazine ─ SPECIAL)]]></title>
