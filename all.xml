@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 05:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 17:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 한정판 디지털 음원이 있다면 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=253</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=253</guid>
+            <pubDate>Fri, 15 Oct 2021 17:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[게임의 규칙이 바뀌고 있다]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211015CY0DGyIfWB-U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼포먼스로 보는 ENHYPEN의 서사 (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=252</link>
