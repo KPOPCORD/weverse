@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 17:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터렉티브] SVT makes SVT]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;num=256</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;num=256</guid>
+            <pubDate>Thu, 21 Oct 2021 05:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211021mKvRZXHosb6.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[BTS와 ARMY, 어둠을 밝히는 우리의 소우주]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;num=1</link>

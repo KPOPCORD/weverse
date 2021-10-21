@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 17:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터렉티브] SVT makes SVT]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=256</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=256</guid>
+            <pubDate>Thu, 21 Oct 2021 05:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴이 DIY로 만들어나가는 꿈의 역사]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211021gvMEnuS4TDl.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[ENHYPEN이 추천한 힐링 플레이리스트]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=255</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 17:43:01 GMT</pubDate>
             <content:encoded><![CDATA[25년 만의 귀환]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211008fcSkzSt7KK0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 언제쯤 공연장에 다시 갈 수 있을까]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=248</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=248</guid>
-            <pubDate>Tue, 05 Oct 2021 05:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 ‘덕질’을 위한 코로나19 상식]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211005GYZYwHXO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
