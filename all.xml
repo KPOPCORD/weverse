@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 17:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 05:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Sat, 09 Oct 2021 05:37:15 GMT</pubDate>
             <content:encoded><![CDATA[더 사랑하는 법을 알려주는 언어의 힘]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211009DxKz0R-VVa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] Fugees가 돌아왔다! (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=249</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=249</guid>
-            <pubDate>Fri, 08 Oct 2021 17:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[25년 만의 귀환]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211008fcSkzSt7KK0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -392,6 +384,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201020PhC3ysoMHyk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] 살바도르 달리, 현실과 비현실의 경계 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=257</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=257</guid>
+            <pubDate>Fri, 22 Oct 2021 05:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211022leBfzqg_DUEYU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] 한정판 디지털 음원이 있다면 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=253</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=253</guid>
@@ -462,14 +462,6 @@
             <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.20]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210820_Q_hFiZ29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] Hiatus Kaiyote (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=223</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=223</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.13]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210813oPkKf0vWA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] SVT makes SVT (Weverse Magazine ─ SPECIAL)]]></title>
