@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 05:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 17:44:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 살바도르 달리, 현실과 비현실의 경계]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=257</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=257</guid>
+            <pubDate>Fri, 22 Oct 2021 17:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[살바도르 달리 회고전]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211022-cjhr7Lp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터렉티브] SVT makes SVT]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=256</link>
