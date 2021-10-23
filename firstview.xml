@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FIRST+VIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 17:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 05:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴의 질주]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=258</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=258</guid>
+            <pubDate>Sat, 23 Oct 2021 05:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211023YPCIfWEY8dx.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[ENHYPEN의 빛나는 청량의 순간]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=251</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
             <content:encoded><![CDATA[2020.10.27]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201027S9caMWLMu6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴의 새 앨범, 들어봤나요?]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=37</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=37</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2020.10.20]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201020PhC3ysoMHyk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

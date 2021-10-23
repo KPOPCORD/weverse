@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 17:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 05:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴의 질주 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=258</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=258</guid>
+            <pubDate>Sat, 23 Oct 2021 05:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌이 팬에게 주는 꿈]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211023YY0yDi5AMz1eq.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 살바도르 달리, 현실과 비현실의 경계 (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=257</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 05:37:20 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN의 새로운 세계로 떠나는 여정의 시작]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211013hh4uyXP0-iy.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한글로 연결되는 아미의 세계 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=250</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=250</guid>
-            <pubDate>Sat, 09 Oct 2021 05:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[더 사랑하는 법을 알려주는 언어의 힘]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211009DxKz0R-VVa4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -312,6 +312,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202104/20210416DnaGaWVXPQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세븐틴의 질주 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=258</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=258</guid>
+            <pubDate>Sat, 23 Oct 2021 05:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211023YPCIfWEY8dx.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[ENHYPEN의 빛나는 청량의 순간 (Weverse Magazine ─ FIRST+VIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=251</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=251</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
             <content:encoded><![CDATA[2020.10.27]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201027S9caMWLMu6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴의 새 앨범, 들어봤나요? (Weverse Magazine ─ FIRST+VIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=37</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=37</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2020.10.20]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201020PhC3ysoMHyk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NoW] 살바도르 달리, 현실과 비현실의 경계 (Weverse Magazine ─ NOW)]]></title>
