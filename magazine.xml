@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 17:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 05:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS+]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=259</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=259</guid>
+            <pubDate>Wed, 27 Oct 2021 05:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단 컬래버레이션의 역사]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/202110271i5u9_hucY2D0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴의 질주]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=258</link>
