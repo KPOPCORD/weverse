@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 17:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 오징어 게임과 달고나 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=260</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=260</guid>
+            <pubDate>Fri, 29 Oct 2021 17:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[오징어 게임과 달고나]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211029kr1_n2Aamm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS+ (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=259</link>
