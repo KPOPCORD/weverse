@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 17:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 05:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,22 +62,6 @@
             <pubDate>Fri, 15 Oct 2021 17:43:30 GMT</pubDate>
             <content:encoded><![CDATA[게임의 규칙이 바뀌고 있다]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211015CY0DGyIfWB-U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼포먼스로 보는 ENHYPEN의 서사 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=252</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=252</guid>
-            <pubDate>Thu, 14 Oct 2021 05:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[‘4세대 아이돌’의 퍼포먼스 성장사]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211014t0yCvU04y.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN의 빛나는 청량의 순간 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=251</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=251</guid>
-            <pubDate>Wed, 13 Oct 2021 05:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN의 새로운 세계로 떠나는 여정의 시작]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211013hh4uyXP0-iy.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -400,6 +384,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201027S9caMWLMu6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] 오징어 게임과 달고나 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=260</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=260</guid>
+            <pubDate>Fri, 29 Oct 2021 05:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.29]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211029KqhVTqH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] 살바도르 달리, 현실과 비현실의 경계 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=257</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=257</guid>
@@ -470,14 +462,6 @@
             <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.27]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210827fKGSzxe4eA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 카니예 웨스트가 앨범의 정의를 묻다 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=226</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=226</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.20]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210820_Q_hFiZ29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] SVT makes SVT (Weverse Magazine ─ SPECIAL)]]></title>
