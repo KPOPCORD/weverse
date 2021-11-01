@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 17:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STAYC로 보는 요즘 ‘K-TEEN’]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=261</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=261</guid>
+            <pubDate>Mon, 01 Nov 2021 05:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[Star To A Young Culture]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211101n2WY5IFf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 오징어 게임과 달고나]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=260</link>

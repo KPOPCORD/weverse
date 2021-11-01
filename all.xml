@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 17:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STAYC로 보는 요즘 ‘K-TEEN’ (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=261</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=261</guid>
+            <pubDate>Mon, 01 Nov 2021 05:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[Star To A Young Culture]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211101n2WY5IFf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 오징어 게임과 달고나 (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=260</link>
@@ -152,6 +160,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/20210704pauPIUVi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[STAYC로 보는 요즘 ‘K-TEEN’ (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=261</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=261</guid>
+            <pubDate>Mon, 01 Nov 2021 05:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211101Tbt0sHFdms-A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS+ (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=259</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=259</guid>
@@ -222,14 +238,6 @@
             <pubDate>Tue, 21 Sep 2021 22:35:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.06]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/202109065HrXMn4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴 퍼포먼스의 영업비밀 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=232</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=232</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.02]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210902bvDoCUH4VB9v.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼포먼스로 보는 ENHYPEN의 서사 (Weverse Magazine ─ REVIEW)]]></title>
