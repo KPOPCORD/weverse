@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 17:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LL 쿨 J, ‘로큰롤 명예의 전당'에 입성하다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=262</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=262</guid>
+            <pubDate>Fri, 05 Nov 2021 17:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211104XvTS5ELp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 오징어 게임과 달고나]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=260</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.03]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/202109039cH0-EUoVq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 이건희 컬렉션 특별전 웰컴 홈 향연]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=229</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=229</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.27]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210827fKGSzxe4eA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
