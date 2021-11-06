@@ -4,7 +4,7 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 17:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 05:38:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/202110271i5u9_hucY2D0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세븐틴의 질주]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=258</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=258</guid>
-            <pubDate>Sat, 23 Oct 2021 05:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌이 팬에게 주는 꿈]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211023YY0yDi5AMz1eq.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[[NoW] 살바도르 달리, 현실과 비현실의 경계]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=257</link>
             <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=257</guid>
@@ -56,28 +48,12 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211022-cjhr7Lp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터렉티브] SVT makes SVT]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=256</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=256</guid>
-            <pubDate>Thu, 21 Oct 2021 05:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[세븐틴이 DIY로 만들어나가는 꿈의 역사]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211021gvMEnuS4TDl.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[ENHYPEN이 추천한 힐링 플레이리스트]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=255</link>
             <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=255</guid>
             <pubDate>Wed, 20 Oct 2021 05:37:12 GMT</pubDate>
             <content:encoded><![CDATA[우리에게 위안을 주는 노래]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211020LuTLgwa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[승관이 영업하는 한국 여자 배구의 매력]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=254</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=254</guid>
-            <pubDate>Mon, 18 Oct 2021 05:37:23 GMT</pubDate>
-            <content:encoded><![CDATA[도쿄 올림픽부터 V-리그까지, 한국 여자 배구 리그 입문 가이드]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211018dpHXPI_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
