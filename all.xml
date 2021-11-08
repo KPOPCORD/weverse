@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 17:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 05:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트릿 우먼 파이터 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=263</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=263</guid>
+            <pubDate>Mon, 08 Nov 2021 05:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[‘스트릿 우먼 파이터’의 리더십]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211108aqnHqdiIPe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LL 쿨 J, ‘로큰롤 명예의 전당'에 입성하다 (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=262</link>
@@ -136,6 +144,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/20210704pauPIUVi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스트릿 우먼 파이터 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=263</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=263</guid>
+            <pubDate>Mon, 08 Nov 2021 05:38:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.08]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/202111082HwCGuJUc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[STAYC로 보는 요즘 ‘K-TEEN’ (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=261</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=261</guid>
@@ -206,14 +222,6 @@
             <pubDate>Tue, 21 Sep 2021 22:35:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.08]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210907s0g8UyAUsd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리 아일리시의 슬픔과 성장 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=234</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=234</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.06]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/202109065HrXMn4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼포먼스로 보는 ENHYPEN의 서사 (Weverse Magazine ─ REVIEW)]]></title>
