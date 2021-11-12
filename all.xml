@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 05:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 17:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 아바의 귀환, 그 이후 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=265</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=265</guid>
+            <pubDate>Fri, 12 Nov 2021 17:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[아바의 가상 공연을 볼 수 있다면]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/202111129D-hRVUT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드레이크의 싸움 (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=264</link>
