@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 17:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅히트 오디션으로 보는 꿈의 조건들]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=266</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=266</guid>
+            <pubDate>Mon, 15 Nov 2021 05:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.15]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211115uE3Y-AXu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드레이크의 싸움]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=264</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 22:35:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.15]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210915tyOjaP0y3LRov.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Permission to Dance’의 국제 수화에서 배리어프리까지]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=238</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=238</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210913MZbHfUpG.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
