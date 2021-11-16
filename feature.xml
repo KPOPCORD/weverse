@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 17:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌이 산다, 아이돌의 삶을]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=267</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=267</guid>
+            <pubDate>Tue, 16 Nov 2021 05:37:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.16]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/202111160XJXOAFwMR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅히트 오디션으로 보는 꿈의 조건들]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=266</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Sep 2021 05:37:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.28]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210928qzQPUGMtKkm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더가 틱톡에서 흥한다고?]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=239</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=239</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.15]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210915tyOjaP0y3LRov.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
