@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 17:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 05:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아메리칸 뮤직 어워드(AMA), 투표로 뽑는 시상식]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=268</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=268</guid>
+            <pubDate>Fri, 19 Nov 2021 05:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211119T5Z6UQwdg0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌이 산다, 아이돌의 삶을]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=267</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Oct 2021 05:37:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.05]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/202110058VUsp6TTFmNtV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더의 세계와 문법]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=246</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=246</guid>
-            <pubDate>Tue, 28 Sep 2021 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210928qzQPUGMtKkm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

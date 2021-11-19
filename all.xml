@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 17:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 05:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아메리칸 뮤직 어워드(AMA), 투표로 뽑는 시상식 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=268</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=268</guid>
+            <pubDate>Fri, 19 Nov 2021 05:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단은 시상식에 새로운 변화를 일으킬까]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211119l9A3V9LfoCp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌이 산다, 아이돌의 삶을 (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=267</link>
@@ -54,22 +62,6 @@
             <pubDate>Fri, 05 Nov 2021 17:44:00 GMT</pubDate>
             <content:encoded><![CDATA[랩 슈퍼스타, ‘전설 인증' 받다]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211104bHn-gAD13_St.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STAYC로 보는 요즘 ‘K-TEEN’ (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=261</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=261</guid>
-            <pubDate>Mon, 01 Nov 2021 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[Star To A Young Culture]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211101n2WY5IFf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 오징어 게임과 달고나 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=260</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=260</guid>
-            <pubDate>Fri, 29 Oct 2021 17:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[오징어 게임과 달고나]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211029kr1_n2Aamm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -152,6 +144,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/20210704pauPIUVi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아메리칸 뮤직 어워드(AMA), 투표로 뽑는 시상식 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=268</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=268</guid>
+            <pubDate>Fri, 19 Nov 2021 05:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211119T5Z6UQwdg0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이돌이 산다, 아이돌의 삶을 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=267</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=267</guid>
@@ -222,14 +222,6 @@
             <pubDate>Tue, 05 Oct 2021 05:37:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.05]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/202110058VUsp6TTFmNtV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더의 세계와 문법 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=246</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=246</guid>
-            <pubDate>Tue, 28 Sep 2021 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210928qzQPUGMtKkm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼포먼스로 보는 ENHYPEN의 서사 (Weverse Magazine ─ REVIEW)]]></title>
