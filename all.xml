@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 17:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 현 시대 인간에 대한 사유 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=269</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=269</guid>
+            <pubDate>Fri, 19 Nov 2021 17:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[리움미술관 기획전 ‘인간, 일곱개의 질문’]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/2021111927X_b2QkT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아메리칸 뮤직 어워드(AMA), 투표로 뽑는 시상식 (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=268</link>
@@ -384,6 +392,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201027S9caMWLMu6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] 현 시대 인간에 대한 사유 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=269</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=269</guid>
+            <pubDate>Fri, 19 Nov 2021 17:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211119ev9ypP_PbSisw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] 아바의 귀환, 그 이후 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=265</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=265</guid>
@@ -454,14 +470,6 @@
             <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210917w6feNMvi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] Lizzo의 ‘Rumors’ (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=237</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=237</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210910xrrhe7U8pi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] SVT makes SVT (Weverse Magazine ─ SPECIAL)]]></title>

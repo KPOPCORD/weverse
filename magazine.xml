@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 17:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 현 시대 인간에 대한 사유]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=269</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=269</guid>
+            <pubDate>Fri, 19 Nov 2021 17:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[리움미술관 기획전 ‘인간, 일곱개의 질문’]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/2021111927X_b2QkT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아메리칸 뮤직 어워드(AMA), 투표로 뽑는 시상식]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=268</link>
