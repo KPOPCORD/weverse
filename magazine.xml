@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 17:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CL이라는 이름으로]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=270</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=270</guid>
+            <pubDate>Mon, 22 Nov 2021 05:37:57 GMT</pubDate>
+            <content:encoded><![CDATA[CL의 첫 솔로 정규 앨범 ‘ALPHA’의 이야기]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211122YEnwn5D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 현 시대 인간에 대한 사유]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=269</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 Nov 2021 05:37:54 GMT</pubDate>
             <content:encoded><![CDATA[‘스트릿 우먼 파이터’의 리더십]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211108aqnHqdiIPe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] LL 쿨 J, ‘로큰롤 명예의 전당'에 입성하다]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=262</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=262</guid>
-            <pubDate>Fri, 05 Nov 2021 17:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[랩 슈퍼스타, ‘전설 인증' 받다]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211104bHn-gAD13_St.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
