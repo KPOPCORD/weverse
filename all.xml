@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 17:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,22 +62,6 @@
             <pubDate>Mon, 15 Nov 2021 05:37:57 GMT</pubDate>
             <content:encoded><![CDATA[투모로우바이투게더와 현직자들에게 듣는 오디션 이야기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211115wkg5HPD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 아바의 귀환, 그 이후 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=265</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=265</guid>
-            <pubDate>Fri, 12 Nov 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[아바의 가상 공연을 볼 수 있다면]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/202111129D-hRVUT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드레이크의 싸움 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=264</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=264</guid>
-            <pubDate>Tue, 09 Nov 2021 05:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[드레이크는 아직 올라갈 곳이 있다.]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/202111087HVfprr95F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -400,6 +384,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201027S9caMWLMu6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] Jon Batiste, 재즈와 R&B의 경계에서 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=273</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=273</guid>
+            <pubDate>Fri, 03 Dec 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211203ozusiZKQYHwq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] 비빔밥과 숟가락 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=271</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=271</guid>
@@ -470,14 +462,6 @@
             <pubDate>Fri, 01 Oct 2021 05:37:31 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/202110014EADS7Ijh3-.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 앨리스 달튼 브라운 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=244</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=244</guid>
-            <pubDate>Fri, 24 Sep 2021 05:37:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.24]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202109/20210924P026x7kShJUuU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] SVT makes SVT (Weverse Magazine ─ SPECIAL)]]></title>

@@ -4,7 +4,7 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 17:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,22 +62,6 @@
             <pubDate>Mon, 15 Nov 2021 05:37:57 GMT</pubDate>
             <content:encoded><![CDATA[투모로우바이투게더와 현직자들에게 듣는 오디션 이야기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211115wkg5HPD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 아바의 귀환, 그 이후]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=265</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=265</guid>
-            <pubDate>Fri, 12 Nov 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[아바의 가상 공연을 볼 수 있다면]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/202111129D-hRVUT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드레이크의 싸움]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=264</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=264</guid>
-            <pubDate>Tue, 09 Nov 2021 05:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[드레이크는 아직 올라갈 곳이 있다.]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/202111087HVfprr95F.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
