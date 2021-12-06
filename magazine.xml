@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 17:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태현과 휴닝카이의 ‘애니 잡담’]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=274</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=274</guid>
+            <pubDate>Mon, 06 Dec 2021 05:38:51 GMT</pubDate>
+            <content:encoded><![CDATA[애니메이션과 투모로우바이투게더의 이야기]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211206WhnxQTCC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] Jon Batiste, 재즈와 R&B의 경계에서]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=273</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Nov 2021 05:37:31 GMT</pubDate>
             <content:encoded><![CDATA[수능을 준비하는 프로미스나인 백지헌의 이야기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211116q6y0qBhXC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅히트 오디션으로 보는 꿈의 조건들]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=266</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=266</guid>
-            <pubDate>Mon, 15 Nov 2021 05:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[투모로우바이투게더와 현직자들에게 듣는 오디션 이야기]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211115wkg5HPD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
