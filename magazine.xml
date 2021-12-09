@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 17:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 05:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Prod. by SUGA]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=275</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=275</guid>
+            <pubDate>Thu, 09 Dec 2021 05:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[슈가의 프로듀싱 곡들을 위한 안내서]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211209AwtBbBYx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태현과 휴닝카이의 ‘애니 잡담’]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=274</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 05:37:35 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단은 시상식에 새로운 변화를 일으킬까]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211119l9A3V9LfoCp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌이 산다, 아이돌의 삶을]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=267</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=267</guid>
-            <pubDate>Tue, 16 Nov 2021 05:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[수능을 준비하는 프로미스나인 백지헌의 이야기]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211116q6y0qBhXC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
