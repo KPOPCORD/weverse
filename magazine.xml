@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 17:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ 골라보기]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=276</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=276</guid>
+            <pubDate>Fri, 10 Dec 2021 05:38:06 GMT</pubDate>
+            <content:encoded><![CDATA[‘스타워즈’, 마블, 픽사 그리고 ‘X 파일’까지]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211210Gd8MY47ZHmAq7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prod. by SUGA]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=275</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 17:44:06 GMT</pubDate>
             <content:encoded><![CDATA[리움미술관 기획전 ‘인간, 일곱개의 질문’]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/2021111927X_b2QkT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸 뮤직 어워드(AMA), 투표로 뽑는 시상식]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=268</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=268</guid>
-            <pubDate>Fri, 19 Nov 2021 05:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단은 시상식에 새로운 변화를 일으킬까]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211119l9A3V9LfoCp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

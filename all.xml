@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 17:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ 골라보기 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=276</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=276</guid>
+            <pubDate>Fri, 10 Dec 2021 05:38:06 GMT</pubDate>
+            <content:encoded><![CDATA[‘스타워즈’, 마블, 픽사 그리고 ‘X 파일’까지]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211210Gd8MY47ZHmAq7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prod. by SUGA (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=275</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 17:44:06 GMT</pubDate>
             <content:encoded><![CDATA[리움미술관 기획전 ‘인간, 일곱개의 질문’]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/2021111927X_b2QkT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸 뮤직 어워드(AMA), 투표로 뽑는 시상식 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=268</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=268</guid>
-            <pubDate>Fri, 19 Nov 2021 05:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단은 시상식에 새로운 변화를 일으킬까]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211119l9A3V9LfoCp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -152,6 +152,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202107/20210704pauPIUVi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디즈니+ 골라보기 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=276</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=276</guid>
+            <pubDate>Fri, 10 Dec 2021 05:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211210q6CbUTL4lwNcc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Prod. by SUGA (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=275</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=275</guid>
@@ -222,14 +230,6 @@
             <pubDate>Mon, 01 Nov 2021 05:38:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.01]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211101Tbt0sHFdms-A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS+ (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=259</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=259</guid>
-            <pubDate>Wed, 27 Oct 2021 05:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211027W4L1Cc05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CL이라는 이름으로 (Weverse Magazine ─ REVIEW)]]></title>
