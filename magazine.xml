@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 17:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 테일러 스위프트의 10분짜리 곡]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=277</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=277</guid>
+            <pubDate>Fri, 10 Dec 2021 17:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[두 번째 재녹음 앨범 ‘RED’에 드디어 실린 그 노래]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211210xHFtoAbgWDw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ 골라보기]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=276</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 05:37:57 GMT</pubDate>
             <content:encoded><![CDATA[CL의 첫 솔로 정규 앨범 ‘ALPHA’의 이야기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211122YEnwn5D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 현 시대 인간에 대한 사유]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=269</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=269</guid>
-            <pubDate>Fri, 19 Nov 2021 17:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[리움미술관 기획전 ‘인간, 일곱개의 질문’]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/2021111927X_b2QkT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

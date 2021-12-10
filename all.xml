@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 17:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NoW] 테일러 스위프트의 10분짜리 곡 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=277</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=277</guid>
+            <pubDate>Fri, 10 Dec 2021 17:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[두 번째 재녹음 앨범 ‘RED’에 드디어 실린 그 노래]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211210xHFtoAbgWDw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ 골라보기 (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=276</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 05:37:57 GMT</pubDate>
             <content:encoded><![CDATA[CL의 첫 솔로 정규 앨범 ‘ALPHA’의 이야기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211122YEnwn5D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 현 시대 인간에 대한 사유 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=269</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=269</guid>
-            <pubDate>Fri, 19 Nov 2021 17:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[리움미술관 기획전 ‘인간, 일곱개의 질문’]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/2021111927X_b2QkT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201027S9caMWLMu6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] 테일러 스위프트의 10분짜리 곡 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=277</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=277</guid>
+            <pubDate>Fri, 10 Dec 2021 17:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211210sJORN6UR6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] Jon Batiste, 재즈와 R&B의 경계에서 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=273</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=273</guid>
@@ -462,14 +470,6 @@
             <pubDate>Fri, 08 Oct 2021 05:37:31 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.08]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211008G7YEBYqmyti7W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 김 전성시대 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=247</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=247</guid>
-            <pubDate>Fri, 01 Oct 2021 05:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/202110014EADS7Ijh3-.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] SVT makes SVT (Weverse Magazine ─ SPECIAL)]]></title>
