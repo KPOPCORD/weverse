@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 디즈니+, 애플TV+를 비교하다]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=279</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=279</guid>
+            <pubDate>Tue, 14 Dec 2021 17:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[나에게 딱 맞는 OTT를 찾아보자]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211214qa00AUBWbQY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위버스 홀리데이 플레이리스트]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=278</link>
