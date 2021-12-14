@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 17:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 05:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위버스 홀리데이 플레이리스트]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=278</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=278</guid>
+            <pubDate>Tue, 14 Dec 2021 05:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[버논, 범규, 시현, 수민, 하영, 아사히, 희승, 백호, 지유, 지한이 고른 곡들]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211214hS0VJvRsUC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 테일러 스위프트의 10분짜리 곡]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=277</link>
@@ -54,22 +62,6 @@
             <pubDate>Tue, 30 Nov 2021 17:42:29 GMT</pubDate>
             <content:encoded><![CDATA[“아미가 있어서 오랫동안 함께할 수 있다”]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211130Utw9jzV04S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 비빔밥과 숟가락]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=271</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=271</guid>
-            <pubDate>Fri, 26 Nov 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[비빔밥과 숟가락]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211126t0RMm9-qyz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CL이라는 이름으로]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=270</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=270</guid>
-            <pubDate>Mon, 22 Nov 2021 05:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[CL의 첫 솔로 정규 앨범 ‘ALPHA’의 이야기]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/20211122YEnwn5D.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
