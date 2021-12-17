@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 17:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 05:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Mon, 06 Dec 2021 05:38:51 GMT</pubDate>
             <content:encoded><![CDATA[애니메이션과 투모로우바이투게더의 이야기]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211206WhnxQTCC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] Jon Batiste, 재즈와 R&B의 경계에서 (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=273</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=273</guid>
-            <pubDate>Fri, 03 Dec 2021 17:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[모두의 허를 찌르다]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211203fD8PdMXj43Ic.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -392,6 +384,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201027S9caMWLMu6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] 하이브 인사이트 기획전 ‘HUMBLE SOULS’ (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=282</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=282</guid>
+            <pubDate>Fri, 17 Dec 2021 05:38:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211217f0Vy4IVbae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] 테일러 스위프트의 10분짜리 곡 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=277</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=277</guid>
@@ -462,14 +462,6 @@
             <pubDate>Fri, 15 Oct 2021 05:37:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211015H3kqPA8M0nU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] Fugees가 돌아왔다! (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=249</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=249</guid>
-            <pubDate>Fri, 08 Oct 2021 05:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211008G7YEBYqmyti7W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] SVT makes SVT (Weverse Magazine ─ SPECIAL)]]></title>
