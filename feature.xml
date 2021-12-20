@@ -4,7 +4,7 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 17:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211206lK3_rUD-o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘BTS 퍼미션 투 댄스 온 스테이지-LA’ 기자 간담회]]></title>
+            <title><![CDATA[‘BTS 퍼미션 투 댄스 온 스테이지 - LA’ 기자 간담회]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=272</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=272</guid>
             <pubDate>Tue, 30 Nov 2021 17:42:40 GMT</pubDate>

@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 17:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보랏빛 파도가 세상을 물들이다]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=283</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=283</guid>
+            <pubDate>Mon, 20 Dec 2021 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[‘BTS PERMISSION TO DANCE ON STAGE - LA’ 공연 리뷰]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211220l6qA05gat.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 하이브 인사이트 기획전 ‘HUMBLE SOULS’]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=282</link>

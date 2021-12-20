@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 17:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보랏빛 파도가 세상을 물들이다 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=283</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=283</guid>
+            <pubDate>Mon, 20 Dec 2021 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[‘BTS PERMISSION TO DANCE ON STAGE - LA’ 공연 리뷰]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211220l6qA05gat.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 하이브 인사이트 기획전 ‘HUMBLE SOULS’ (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=282</link>
@@ -184,7 +192,7 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211206lK3_rUD-o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘BTS 퍼미션 투 댄스 온 스테이지-LA’ 기자 간담회 (Weverse Magazine ─ FEATURE)]]></title>
+            <title><![CDATA[‘BTS 퍼미션 투 댄스 온 스테이지 - LA’ 기자 간담회 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=272</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;num=272</guid>
             <pubDate>Tue, 30 Nov 2021 17:42:40 GMT</pubDate>
@@ -230,6 +238,14 @@
             <pubDate>Mon, 08 Nov 2021 05:38:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202111/202111082HwCGuJUc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보랏빛 파도가 세상을 물들이다 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=283</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=283</guid>
+            <pubDate>Mon, 20 Dec 2021 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.20]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211220G5dXux2OB.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[CL이라는 이름으로 (Weverse Magazine ─ REVIEW)]]></title>
@@ -302,14 +318,6 @@
             <pubDate>Tue, 21 Sep 2021 22:35:50 GMT</pubDate>
             <content:encoded><![CDATA[2021.05.25]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202105/20210525TfrLyfDey.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN, K-팝의 얼터너티브 판타지 (Weverse Magazine ─ REVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=155</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=155</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.10]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202105/20210510ULEyJdTtMGx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴의 질주 (Weverse Magazine ─ FIRST+VIEW)]]></title>
