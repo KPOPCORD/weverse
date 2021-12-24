@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 17:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 05:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,22 +62,6 @@
             <pubDate>Fri, 10 Dec 2021 05:38:06 GMT</pubDate>
             <content:encoded><![CDATA[‘스타워즈’, 마블, 픽사 그리고 ‘X 파일’까지]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211210Gd8MY47ZHmAq7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prod. by SUGA (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=275</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=275</guid>
-            <pubDate>Thu, 09 Dec 2021 05:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[슈가의 프로듀싱 곡들을 위한 안내서]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211209AwtBbBYx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태현과 휴닝카이의 ‘애니 잡담’ (Weverse Magazine )]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=274</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=274</guid>
-            <pubDate>Mon, 06 Dec 2021 05:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[애니메이션과 투모로우바이투게더의 이야기]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211206WhnxQTCC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한사랑음악회 “정석을 피하다 보니 가보지 않은 길을 가게 됐어요” (Weverse Magazine ─ INTERVIEW)]]></title>
@@ -400,6 +384,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201027S9caMWLMu6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NoW] 세상에 없던 드라마, ‘구경이’ (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=287</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=287</guid>
+            <pubDate>Fri, 24 Dec 2021 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/202112242JkaOk0Fuck.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NoW] 하이브 인사이트 기획전 ‘HUMBLE SOULS’ (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=282</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=282</guid>
@@ -470,14 +462,6 @@
             <pubDate>Fri, 22 Oct 2021 05:37:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.22]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211022leBfzqg_DUEYU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 한정판 디지털 음원이 있다면 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=253</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;num=253</guid>
-            <pubDate>Fri, 15 Oct 2021 05:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211015H3kqPA8M0nU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] SVT makes SVT (Weverse Magazine ─ SPECIAL)]]></title>
