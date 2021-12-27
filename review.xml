@@ -4,9 +4,25 @@
         <title>Weverse Magazine ─ REVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 17:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 05:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더와 ENHYPEN, ‘4세대 아이돌’의 연말 무대]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=289</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=289</guid>
+            <pubDate>Mon, 27 Dec 2021 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211227VBpdGxFTP2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아델의 시간은 음악으로 흐르고]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=288</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=288</guid>
+            <pubDate>Mon, 27 Dec 2021 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211227c7DRyMk6nD2o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보랏빛 파도가 세상을 물들이다]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=283</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 22:35:50 GMT</pubDate>
             <content:encoded><![CDATA[2021.05.27]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202105/20210527s-YMaL9Wc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로 이야기하는 ‘Butter’]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=162</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=162</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.26]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202105/20210525SMCEPOs1i1H0W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악 산업으로 바라본 ‘Butter’]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=161</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;num=161</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.25]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202105/20210525TfrLyfDey.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

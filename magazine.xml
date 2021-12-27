@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 17:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 05:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아델의 시간은 음악으로 흐르고]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=288</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=288</guid>
+            <pubDate>Mon, 27 Dec 2021 05:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[아델의 ‘30’]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211227-SqoBHJ_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NoW] 세상에 없던 드라마, ‘구경이’]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=287</link>
@@ -54,22 +62,6 @@
             <pubDate>Tue, 14 Dec 2021 05:37:59 GMT</pubDate>
             <content:encoded><![CDATA[버논, 범규, 시현, 수민, 하영, 아사히, 희승, 백호, 지유, 지한이 고른 곡들]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211214hS0VJvRsUC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NoW] 테일러 스위프트의 10분짜리 곡]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=277</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=277</guid>
-            <pubDate>Fri, 10 Dec 2021 17:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[두 번째 재녹음 앨범 ‘RED’에 드디어 실린 그 노래]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211210xHFtoAbgWDw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ 골라보기]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=276</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=276</guid>
-            <pubDate>Fri, 10 Dec 2021 05:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘스타워즈’, 마블, 픽사 그리고 ‘X 파일’까지]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211210Gd8MY47ZHmAq7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
