@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더와 ENHYPEN, ‘4세대 아이돌’의 연말 무대 (Weverse Magazine )]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=289</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=289</guid>
+            <pubDate>Mon, 27 Dec 2021 17:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[손성득이 말하는 ‘MMA’, ‘MAMA’, ‘가요대축제']]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211227P3jnzDlz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아델의 시간은 음악으로 흐르고 (Weverse Magazine )]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=288</link>
