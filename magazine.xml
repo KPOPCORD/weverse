@@ -4,9 +4,17 @@
         <title>Weverse Magazine </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 17:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:40:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대를 위한 서태지 입문편]]></title>
+            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=290</link>
+            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=290</guid>
+            <pubDate>Wed, 29 Dec 2021 05:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[서태지의 음악을 위버스콘으로 들을 이들에게 권하는 추천곡]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211229yNg1i5Gw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더와 ENHYPEN, ‘4세대 아이돌’의 연말 무대]]></title>
             <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=289</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 14 Dec 2021 17:41:05 GMT</pubDate>
             <content:encoded><![CDATA[나에게 딱 맞는 OTT를 찾아보자]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211214qa00AUBWbQY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위버스 홀리데이 플레이리스트]]></title>
-            <link>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=278</link>
-            <guid>https://magazine.weverse.io/article/view?ref=main&amp;lang=ko&amp;num=278</guid>
-            <pubDate>Tue, 14 Dec 2021 05:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[버논, 범규, 시현, 수민, 하영, 아사히, 희승, 백호, 지유, 지한이 고른 곡들]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/20211214hS0VJvRsUC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
