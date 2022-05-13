@@ -1,13 +1,3 @@
-[magazine]
-title = "Weverse Magazine "
-url = "https://magazine.weverse.io/?lang=ko"
-entrySelector = "div.slick-slide"
-titleSelector = "div.dec a.tit"
-linkSelector = "div.dec a.tit"
-contentSelector = "div.txt"
-imageSelector = "div.img a img"
-waitUntil = "networkidle"
-
 [interview]
 title = "Weverse Magazine ─ INTERVIEW"
 url = "https://magazine.weverse.io/article/list?lang=ko&colca=1"
