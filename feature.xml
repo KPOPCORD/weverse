@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 02:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 세븐틴을 좋아하게 될 열세 가지 방법]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=486</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=486</guid>
+            <pubDate>Wed, 27 Jul 2022 03:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220726H7rvyqFvS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌으로 바라보는 K-팝 걸그룹 시장의 현재]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=485</link>
@@ -77,14 +85,6 @@
             <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.18]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220517R562TWJrx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단이 그래미에 침투하다]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=391</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=391</guid>
-            <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/202204271RPraOL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
