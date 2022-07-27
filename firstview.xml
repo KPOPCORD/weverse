@@ -4,88 +4,88 @@
         <title>Weverse Magazine ─ FIRST+VIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 17:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 02:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[세븐틴, 새로운 세계에 도달하다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=476</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=476</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/202207180SQG4jSFw1y_.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN의 새로운 선언]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=454</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=454</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.05]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220705qAyYyioEu.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[프로미스나인이 지킨 약속]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=449</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=449</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220627yE00uRiWp.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴, 태양을 향해 도전하다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=419</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=419</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/202205269b0bycw.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[투모로우바이투게더의 놀라운 전환점]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=398</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=398</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.10]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/2022050953frqaKAoVj_Z.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[르세라핌의 힘]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=392</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=392</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220429Qyf8yV50Exs0.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN, 또 한 번 도약하다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=310</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=310</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.11]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202201/20220111vWXf56nPly.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[세븐틴의 질주]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=258</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=258</guid>
-            <pubDate>Sat, 23 Oct 2021 05:37:25 GMT</pubDate>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=258</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=258</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.23]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211023YPCIfWEY8dx.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[ENHYPEN의 빛나는 청량의 순간]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=251</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=251</guid>
-            <pubDate>Wed, 13 Oct 2021 05:37:47 GMT</pubDate>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=251</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=251</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.13]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211013rfUPKv4m.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[투모로우바이투게더의 세상이 온다]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=225</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=225</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=225</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=225</guid>
+            <pubDate>Wed, 27 Jul 2022 02:10:57 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210818-6rXMjj5DKlDw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴의 힘]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=181</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=181</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.19]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202106/20210619thsUyHhjNd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TXT의 새 앨범을 들으면 알게 되는 것들]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=167</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=167</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202106/202106016Qzv-QAtRfJtW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN의 멋진 세계]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=140</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=140</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.27]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202104/202104278OyXa-bMZg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴이스트가 보내는 낭만]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=134</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=134</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.20]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202104/20210420LDt7Mghm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN의 데뷔 앨범 들어봤나요?]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=65</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=65</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2020.12.01]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202012/20201201JGVbblWo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자친구의 새 앨범, 주목할 부분은?]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=51</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=51</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2020.11.10]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202104/20210420Nmnquh1PgqKRM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더의 새 앨범 첫인상은?]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=41</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;num=41</guid>
-            <pubDate>Tue, 21 Sep 2021 22:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2020.10.27]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202010/20201027S9caMWLMu6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

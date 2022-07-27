@@ -4,22 +4,38 @@
         <title>Weverse Magazine ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 17:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 02:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[인터렉티브] TXT X MBTI]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=393</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=393</guid>
+            <pubDate>Wed, 27 Jul 2022 02:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.06]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220429qFNbjKo7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터렉티브] BTS 2021: The Year of the Most Famous Pop Icon in the World]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=291</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=291</guid>
+            <pubDate>Wed, 27 Jul 2022 02:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.31]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/202112302X5OB5OD8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터렉티브] SVT makes SVT]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;num=256</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;num=256</guid>
-            <pubDate>Thu, 21 Oct 2021 05:37:50 GMT</pubDate>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=256</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=256</guid>
+            <pubDate>Wed, 27 Jul 2022 02:11:08 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211021mKvRZXHosb6.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[BTS와 ARMY, 어둠을 밝히는 우리의 소우주]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;num=1</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;num=1</guid>
-            <pubDate>Tue, 21 Sep 2021 22:36:08 GMT</pubDate>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=1</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=1</guid>
+            <pubDate>Wed, 27 Jul 2022 02:11:08 GMT</pubDate>
             <content:encoded><![CDATA[2020.09.21]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202009/20200921QJSVqUH-sN2.gif" length="0" type="image/gif"/>
         </item>
