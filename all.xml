@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 00:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 03:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220614VO5tg6UWgPI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제이홉과 투모로우바이투게더가 서는 이 무대 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=488</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=488</guid>
+            <pubDate>Thu, 28 Jul 2022 03:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/202207271gtMxHxnf1W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당신이 세븐틴을 좋아하게 될 열세 가지 방법 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=486</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=486</guid>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.02]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220531lndGfJlJcCXL8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더가 패션으로 구현한 세계 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=410</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=410</guid>
-            <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.18]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220517R562TWJrx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인간, 제이홉 (Weverse Magazine ─ REVIEW)]]></title>
