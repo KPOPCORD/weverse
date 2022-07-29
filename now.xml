@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 06:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 07:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘차린 건 쥐뿔도 없지만’, 지금 이 토크쇼가 뜬다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=489</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=489</guid>
+            <pubDate>Fri, 29 Jul 2022 07:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220728ZF3Z0WgIZOW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 주 당신에게 추천하는 K-예능]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=482</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 02:11:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.27]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220526DDiNZZJVfv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브록햄튼, 이 멋진 보이밴드]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=414</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=414</guid>
-            <pubDate>Wed, 27 Jul 2022 02:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.20]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220519YcLGbGu0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
