@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 00:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 03:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220531lndGfJlJcCXL8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[초봄, 에이핑크이기 때문에 가능한 유닛 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=492</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=492</guid>
+            <pubDate>Tue, 02 Aug 2022 03:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.02]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220801bdZ98DOL7a.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[정국을 듣다 (Weverse Magazine ─ REVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=490</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=490</guid>
@@ -237,14 +245,6 @@
             <pubDate>Wed, 27 Jul 2022 02:10:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.27]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/202205266ZXCdTRYNFhW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올리비아 로드리고가 일으킨 센세이션 (Weverse Magazine ─ REVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=416</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=416</guid>
-            <pubDate>Wed, 27 Jul 2022 02:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.24]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220523KhtoV_ilDr37T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴, 새로운 세계에 도달하다 (Weverse Magazine ─ FIRST+VIEW)]]></title>
