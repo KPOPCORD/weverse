@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수민이 독서로 얻는 행복]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=494</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=494</guid>
+            <pubDate>Wed, 03 Aug 2022 07:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220803jvMi29-ZUNOJ.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제이홉과 투모로우바이투게더가 서는 이 무대]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=488</link>
@@ -77,14 +85,6 @@
             <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.27]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220627kGWmfR_QsEX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴, 가족틴, 부족틴]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=422</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=422</guid>
-            <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.02]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/20220531lndGfJlJcCXL8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
