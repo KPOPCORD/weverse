@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 00:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브가 ‘출장 십오야’에 왜 갔을까]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=498</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=498</guid>
+            <pubDate>Mon, 08 Aug 2022 03:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.08]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220805JCF2nnrrBwPj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단부터 뉴진스까지, 하이브의 힘]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=495</link>
@@ -77,14 +85,6 @@
             <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.04]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220704fRvwM4Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스무 살, 백지헌의 대학 생활]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=450</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=450</guid>
-            <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220629kI92kgjoiVv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
