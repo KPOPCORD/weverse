@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 07:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,6 +327,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202108/20210818-6rXMjj5DKlDw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름엔 ‘GOING SEVENTEEN’ (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=499</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=499</guid>
+            <pubDate>Fri, 12 Aug 2022 07:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/202208125ALq8gQA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘비상선언’, 티켓 값을 낼 만하다 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=497</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=497</guid>
@@ -397,14 +405,6 @@
             <pubDate>Wed, 27 Jul 2022 02:11:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.10]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220610JUR94_O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7인의 다이어터, KBS ‘빼고파’ (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=427</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=427</guid>
-            <pubDate>Wed, 27 Jul 2022 02:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.03]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220603yL5Sbkir-M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] TXT X MBTI (Weverse Magazine ─ SPECIAL)]]></title>
