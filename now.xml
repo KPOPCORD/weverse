@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 07:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 08:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘먹방’에 도전하는 소식하는 언니들]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=502</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=502</guid>
+            <pubDate>Fri, 19 Aug 2022 08:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220818oIYJ0Cuj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름엔 ‘GOING SEVENTEEN’]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=499</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 02:11:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.17]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220615WhxWzZf8L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 힙합의 현재를 목격하라, Aitch]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=429</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=429</guid>
-            <pubDate>Wed, 27 Jul 2022 02:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.10]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220610JUR94_O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
