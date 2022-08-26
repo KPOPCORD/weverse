@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 06:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 07:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘조선 정신과 의사 유세풍’, 이 드라마가 흥미롭다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=509</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=509</guid>
+            <pubDate>Fri, 26 Aug 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220826jvhwsJmfmy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘먹방’에 도전하는 소식하는 언니들]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=502</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220623JuvyPhCET.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘기묘한 이야기’와 함께 돌아온 케이트 부시]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=440</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=440</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220615WhxWzZf8L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
