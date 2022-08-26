@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 00:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 03:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220614VO5tg6UWgPI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단이 ‘인더숲’에서 함께한 7가지 놀이 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=508</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=508</guid>
+            <pubDate>Fri, 26 Aug 2022 03:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220825YbUqd2tmOMyj.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[위버스에서 알아두면 좋은 기능 10 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=506</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=506</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.21]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220720CBxd0FSQ-hSe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단의 백악관 방문이 한인-경계인인 내게 의미하는 것 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=477</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=477</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.20]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220719HRq0eCsaqa5Me.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비욘세가 1990년대에 바친 논문이자 러브레터 (Weverse Magazine ─ REVIEW)]]></title>
