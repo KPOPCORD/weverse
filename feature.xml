@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 00:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 03:31:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ENHYPEN FANTASY]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=510</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=510</guid>
+            <pubDate>Mon, 29 Aug 2022 03:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220829W2rs79WY.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단이 ‘인더숲’에서 함께한 7가지 놀이]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=508</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.26]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220726D3JNa8Cin.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[‘로 대 웨이드’ 판결 파기에 맞서는 미국의 팝스타들]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=479</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=479</guid>
-            <pubDate>Wed, 27 Jul 2022 02:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.21]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220720CBxd0FSQ-hSe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
