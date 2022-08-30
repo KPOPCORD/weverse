@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 00:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 03:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴 호프 클럽 “음악을 통해 긍정 에너지를 전하고 싶어요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=511</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=511</guid>
+            <pubDate>Tue, 30 Aug 2022 03:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/202208297nTjw-Ho_7RRN.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ENHYPEN Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=472</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.20]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220614AVubQA_bk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RM “아티스트라면 무조건이에요, 원 앤 온리여야 하거든요” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=438</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=438</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.19]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220614VO5tg6UWgPI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ENHYPEN FANTASY (Weverse Magazine ─ FEATURE)]]></title>
