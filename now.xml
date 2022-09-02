@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 07:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리가 프로듀싱하고 김범수가 부른 노래]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=520</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=520</guid>
+            <pubDate>Fri, 02 Sep 2022 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220902wv0dU39on10AA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘조선 정신과 의사 유세풍’, 이 드라마가 흥미롭다]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=509</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220701Prc-5Dh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글래드스톤 갤러리 ‘아니카 이 : Begin Where You Are’]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=447</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=447</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220623JuvyPhCET.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
