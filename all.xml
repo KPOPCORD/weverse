@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 00:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 03:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220614AVubQA_bk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지난 여름 한국의 극장에서 일어난 일 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=525</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=525</guid>
+            <pubDate>Tue, 06 Sep 2022 03:42:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.06]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220905ZagxlPl.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[2022, 지금의 틱톡과 K-팝 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=523</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=523</guid>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.03]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220803jvMi29-ZUNOJ.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제이홉과 투모로우바이투게더가 서는 이 무대 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=488</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=488</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/202207271gtMxHxnf1W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이홉이 힙합에 리스펙트를 표하는 방법 (Weverse Magazine ─ REVIEW)]]></title>
