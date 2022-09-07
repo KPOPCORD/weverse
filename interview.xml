@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ INTERVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 00:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 03:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초봄 “친근함 속에 새로운 면이 있는 팀이 되었으면 좋겠어요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=526</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=526</guid>
+            <pubDate>Wed, 07 Sep 2022 03:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220906F4Mhh6MhSB.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴 호프 클럽 “음악을 통해 긍정 에너지를 전하고 싶어요”]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=511</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 02:10:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.11]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/202207108enY1qf9uT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 ‘Proof’ 발표 인터뷰 단체사진]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=439</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=439</guid>
-            <pubDate>Wed, 27 Jul 2022 02:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220614AVubQA_bk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
