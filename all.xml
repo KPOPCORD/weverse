@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 07:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/202207108enY1qf9uT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[투모로우바이투게더 ‘ACT : LOVE SICK’ 투어 리포트 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=527</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=527</guid>
+            <pubDate>Tue, 13 Sep 2022 07:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.13]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220907Waf1oFOQR4.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[지난 여름 한국의 극장에서 일어난 일 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=525</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=525</guid>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.04]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220803OU92xZ5Kx65s.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[수민이 독서로 얻는 행복 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=494</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=494</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220803jvMi29-ZUNOJ.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 ‘Pink Venom’, 들어보셨나요? (Weverse Magazine ─ REVIEW)]]></title>

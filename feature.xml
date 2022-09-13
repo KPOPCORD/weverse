@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 07:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더 ‘ACT : LOVE SICK’ 투어 리포트]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=527</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=527</guid>
+            <pubDate>Tue, 13 Sep 2022 07:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.13]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220907Waf1oFOQR4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지난 여름 한국의 극장에서 일어난 일]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=525</link>
@@ -77,14 +85,6 @@
             <pubDate>Wed, 31 Aug 2022 14:10:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.04]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220803OU92xZ5Kx65s.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[수민이 독서로 얻는 행복]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=494</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=494</guid>
-            <pubDate>Wed, 31 Aug 2022 14:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220803jvMi29-ZUNOJ.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
