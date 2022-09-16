@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 06:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 07:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘미노이의 요리조리’를 요리조리 보다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=529</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=529</guid>
+            <pubDate>Fri, 16 Sep 2022 07:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.16]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220915TkRJs3q7n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이효리가 프로듀싱하고 김범수가 부른 노래]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=520</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220707YyPnxIqkFN1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘탑건: 매버릭’, 하늘 위로 떠오른 블록버스터]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=451</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=451</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220701Prc-5Dh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
