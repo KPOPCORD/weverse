@@ -1,7 +1,443 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://KPOPCORD.github.io/weverse/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-11-16T16:24:46.394Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:16:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌 Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=560</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=560</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.29]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221027N7Vy3VRGK4Fy.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[홍은채 “이제는 눈 감고 언니들 손만 만져봐도 알아볼 수 있을 것 같아요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=559</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=559</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221027j7jMQG0ZEjM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김채원 “힘들 때 같이 얘기할 수 있고, 의지할 수 있어요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=557</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=557</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221025EucJtRs6g8Xp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카즈하 “사람들의 기대를 뛰어넘고 싶어요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=556</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=556</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.26]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221024qNWK1kaquXh3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[허윤진 “음악으로 세상을 더 나은 곳으로 만들고 싶어요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=555</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=555</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.25]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221024EEsbVPy.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사쿠라 “영원하지 않아서 모든 순간들이 더 소중하고 빛나요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=553</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=553</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221022oYw76Q0wtWrv.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[백호 “진짜 편한 게 뭘까 질문을 해요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=547</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=547</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.17]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221016vlxRs1l98djs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[초봄 “친근함 속에 새로운 면이 있는 팀이 되었으면 좋겠어요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=526</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=526</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220906F4Mhh6MhSB.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 호프 클럽 “음악을 통해 긍정 에너지를 전하고 싶어요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=511</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=511</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/202208297nTjw-Ho_7RRN.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=472</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=472</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220715Zrk9iyUVJB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진이 지구를 좋아하는 여덟 가지 방법 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=571</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=571</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.16]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/202211157hxN0eb.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단과 아미의 9년, 그 ‘증명의 여정’ (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=569</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=569</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.14]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221111ucwxLTN8.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[프로미스나인 ‘LOVE FROM.’ 투어 리포트 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=567</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=567</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.09]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221107B4VNKKYVIxoB.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LGBTQ+가 K-팝을 말하다 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=566</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=566</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.08]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221107lXQoblIAm.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김초엽과 하이브 오리지널 스토리와의 만남 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=564</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=564</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221103iIi97C1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[르세라핌의 ‘자컨’ 유니버스 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=543</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=543</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.12]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221011MdeE1Qq2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 빌보드 200 1위의 의미 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=541</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=541</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.11]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221010ZG8bG_3ugop.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메이크업, 블랙핑크의 또 하나의 ‘AREA’ (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=539</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=539</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.05]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221004EcB_AQWLOti.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 몰랐던 오마이걸 미미의 세계 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=535</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=535</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/202209263E9sgASG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그렇게 장르가 탄생한다, 바밍타이거 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=534</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=534</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.26]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220923cTr1rbScbVeb1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진, 영원한 소년의 노래 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=570</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=570</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.15]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221114730OyZoJLPI_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이찬혁 [ERROR], 단독자로의 증명 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=565</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/202211047DeB37nkslcw.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[드림캐쳐가 만드는 다른 역사 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=561</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=561</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.08]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221027BTT9oIDz.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[프로듀서 지코의 곡 다섯 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=550</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=550</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.21]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221020Sqzd46Ntcba.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[로잘리아, 전천후 팝스타 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=545</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=545</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.14]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221013M7z_fQSOEp2AQ.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[더 키드 라로이를 알고 싶다면 들어보세요 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=537</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=537</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221003NqzQ20-0k.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 ‘Pink Venom’, 들어보셨나요? (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=524</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=524</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.06]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220905hJ0ivhRg0M.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[제이홉이 힙합에 리스펙트를 표하는 방법 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=515</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=515</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220901n_00gAl.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비욘세가 1990년대에 바친 논문이자 러브레터 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=507</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=507</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220823qaylb2PhZcP.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[맥스에 다가서는 다섯 곡의 노래 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=500</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=500</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.17]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220816Lk2SpLNiT.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[르세라핌, 쾌녀들의 비상 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=548</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=548</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.18]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221017TQnLGLp.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[백호가 찾은 음악의 ‘절대영점’ (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=544</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=544</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.13]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221012Q2kl_Ps8447z.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴, 새로운 세계에 도달하다 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=476</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=476</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/202207180SQG4jSFw1y_.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN의 새로운 선언 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=454</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=454</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.05]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220705qAyYyioEu.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[프로미스나인이 지킨 약속 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=449</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=449</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202206/20220627yE00uRiWp.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴, 태양을 향해 도전하다 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=419</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=419</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/202205269b0bycw.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[투모로우바이투게더의 놀라운 전환점 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=398</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=398</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.10]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202205/2022050953frqaKAoVj_Z.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[르세라핌의 힘 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=392</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=392</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220429Qyf8yV50Exs0.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN, 또 한 번 도약하다 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=310</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=310</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.11]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202201/20220111vWXf56nPly.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴의 질주 (Weverse Magazine ─ FIRST+VIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=258</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=5&amp;artist=&amp;searchword=&amp;num=258</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211023YPCIfWEY8dx.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[‘하루하루 문숙’과 보내는 나의 평화로운 하루 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=568</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=568</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.11]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221110-s1pRop.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해도 ‘쇼미더머니’가 시작됐다 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=563</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=563</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221103Nv34QPYz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진의 ‘차린 건 쥐뿔도 없지만’ 못 봤나요? (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=558</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=558</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221026kNsHbVJmPjU3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘달려라 방탄’ 보는 재미 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=551</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=551</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.21]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221020sm00m-8zXSiPI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신작 드라마 ‘치얼업’ (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=546</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=546</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.14]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221013R4ttjqq8i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘정직한 후보’가 돌아왔다 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=540</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=540</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221006vZN3Afo7Ff9K.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘우재, 이런 일이’, ‘인싸’가 싫은 사람이 만든 ‘인싸템’ (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=536</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=536</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.30]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220930Ldc9nTcawbb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소녀들의 이야기를 담은 드라마와 영화 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=533</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=533</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220922d0t0QwjxeT4y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘미노이의 요리조리’를 요리조리 보다 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=529</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=529</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.16]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220915TkRJs3q7n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리가 프로듀싱하고 김범수가 부른 노래 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=520</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=520</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220902wv0dU39on10AA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터렉티브] TXT X MBTI (Weverse Magazine ─ SPECIAL)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=393</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=393</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.06]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202204/20220429qFNbjKo7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터렉티브] BTS 2021: The Year of the Most Famous Pop Icon in the World (Weverse Magazine ─ SPECIAL)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=291</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=291</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.31]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202112/202112302X5OB5OD8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터렉티브] SVT makes SVT (Weverse Magazine ─ SPECIAL)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=256</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=256</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211021mKvRZXHosb6.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS와 ARMY, 어둠을 밝히는 우리의 소우주 (Weverse Magazine ─ SPECIAL)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=1</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[2020.09.21]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202009/20200921QJSVqUH-sN2.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>

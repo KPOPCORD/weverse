@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://magazine.weverse.io/article/list?lang=ko&amp;colca=7</id>
-    <title>Weverse Magazine ─ NOW</title>
-    <updated>2022-11-16T16:24:46.367Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ssl.pstatic.net/static/wevweb/public/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Weverse Magazine ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:16:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘하루하루 문숙’과 보내는 나의 평화로운 하루]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=568</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=568</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.11]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221110-s1pRop.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해도 ‘쇼미더머니’가 시작됐다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=563</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=563</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221103Nv34QPYz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진의 ‘차린 건 쥐뿔도 없지만’ 못 봤나요?]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=558</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=558</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221026kNsHbVJmPjU3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘달려라 방탄’ 보는 재미]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=551</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=551</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.21]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221020sm00m-8zXSiPI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신작 드라마 ‘치얼업’]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=546</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=546</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.14]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221013R4ttjqq8i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘정직한 후보’가 돌아왔다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=540</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=540</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221006vZN3Afo7Ff9K.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘우재, 이런 일이’, ‘인싸’가 싫은 사람이 만든 ‘인싸템’]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=536</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=536</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.30]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220930Ldc9nTcawbb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소녀들의 이야기를 담은 드라마와 영화]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=533</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=533</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220922d0t0QwjxeT4y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘미노이의 요리조리’를 요리조리 보다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=529</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=529</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.16]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220915TkRJs3q7n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리가 프로듀싱하고 김범수가 부른 노래]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=520</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=520</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220902wv0dU39on10AA.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

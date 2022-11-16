@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://magazine.weverse.io/article/list?lang=ko&amp;colca=1</id>
-    <title>Weverse Magazine ─ INTERVIEW</title>
-    <updated>2022-11-16T16:24:46.369Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ssl.pstatic.net/static/wevweb/public/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Weverse Magazine ─ INTERVIEW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:16:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌 Other Cuts]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=560</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=560</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.29]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221027N7Vy3VRGK4Fy.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[홍은채 “이제는 눈 감고 언니들 손만 만져봐도 알아볼 수 있을 것 같아요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=559</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=559</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221027j7jMQG0ZEjM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김채원 “힘들 때 같이 얘기할 수 있고, 의지할 수 있어요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=557</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=557</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221025EucJtRs6g8Xp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카즈하 “사람들의 기대를 뛰어넘고 싶어요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=556</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=556</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.26]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221024qNWK1kaquXh3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[허윤진 “음악으로 세상을 더 나은 곳으로 만들고 싶어요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=555</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=555</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.25]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221024EEsbVPy.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사쿠라 “영원하지 않아서 모든 순간들이 더 소중하고 빛나요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=553</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=553</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221022oYw76Q0wtWrv.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[백호 “진짜 편한 게 뭘까 질문을 해요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=547</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=547</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.17]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221016vlxRs1l98djs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[초봄 “친근함 속에 새로운 면이 있는 팀이 되었으면 좋겠어요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=526</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=526</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220906F4Mhh6MhSB.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 호프 클럽 “음악을 통해 긍정 에너지를 전하고 싶어요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=511</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=511</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/202208297nTjw-Ho_7RRN.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN Other Cuts]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=472</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=472</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202207/20220715Zrk9iyUVJB.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
