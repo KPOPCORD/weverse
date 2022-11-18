@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 06:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 07:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와칸다 포에버!]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=573</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=573</guid>
+            <pubDate>Fri, 18 Nov 2022 07:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221116VO4mMUW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘하루하루 문숙’과 보내는 나의 평화로운 하루]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=568</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.16]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220915TkRJs3q7n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리가 프로듀싱하고 김범수가 부른 노래]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=520</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=520</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.02]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220902wv0dU39on10AA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
