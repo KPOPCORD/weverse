@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 02:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 03:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/202208297nTjw-Ho_7RRN.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[ENHYPEN ‘MANIFESTO’ 월드 투어 리포트 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=575</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=575</guid>
+            <pubDate>Mon, 21 Nov 2022 03:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221118Cm7PyF0hJ.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[진이 지구를 좋아하는 여덟 가지 방법 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=571</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=571</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.27]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/202209263E9sgASG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그렇게 장르가 탄생한다, 바밍타이거 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=534</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=534</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.26]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220923cTr1rbScbVeb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진, 영원한 소년의 노래 (Weverse Magazine ─ REVIEW)]]></title>
