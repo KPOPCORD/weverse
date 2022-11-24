@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 02:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 03:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샘 스미스가 ‘Unholy’로 넓힌 팝의 경계]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=578</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=578</guid>
+            <pubDate>Thu, 24 Nov 2022 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/202211223YMtbvE2fybxq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버논의 무비 플레이리스트]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=576</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.11]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221010ZG8bG_3ugop.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메이크업, 블랙핑크의 또 하나의 ‘AREA’]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=539</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=539</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.05]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221004EcB_AQWLOti.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
