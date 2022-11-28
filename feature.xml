@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 06:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 07:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌은 무대 위에서 인생을 건다]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=582</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=582</guid>
+            <pubDate>Mon, 28 Nov 2022 07:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221125tfupW0q1.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[RM ‘Indigo’의 뮤지션들 - 2]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=581</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.08]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221107lXQoblIAm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김초엽과 하이브 오리지널 스토리와의 만남]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=564</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=564</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.07]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221103iIi97C1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
