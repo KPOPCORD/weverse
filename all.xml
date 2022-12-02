@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 06:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 07:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202110/20211023YPCIfWEY8dx.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[‘무도키즈’ 버논이 박명수를 만났을 때 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=584</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=584</guid>
+            <pubDate>Fri, 02 Dec 2022 07:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221201QbrSc89Sxto0_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘주토피아’ 친구들을 다시 만나자 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=580</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=580</guid>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.30]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220930Ldc9nTcawbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀들의 이야기를 담은 드라마와 영화 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=533</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=533</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.23]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220922d0t0QwjxeT4y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] TXT X MBTI (Weverse Magazine ─ SPECIAL)]]></title>
