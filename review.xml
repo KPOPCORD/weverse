@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ REVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 23:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 00:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TXT에게 찾아온 악마]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=585</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=585</guid>
+            <pubDate>Sat, 03 Dec 2022 00:38:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221201qmBfrHKo.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[진, 영원한 소년의 노래]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=570</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.24]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220823qaylb2PhZcP.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[맥스에 다가서는 다섯 곡의 노래]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=500</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=500</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220816Lk2SpLNiT.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
