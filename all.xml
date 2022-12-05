@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 06:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 07:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221111ucwxLTN8.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[테일러 스위프트의 시대 (Weverse Magazine ─ REVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=586</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=586</guid>
+            <pubDate>Mon, 05 Dec 2022 07:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221203IAtcn4ckfwWII.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[TXT에게 찾아온 악마 (Weverse Magazine ─ REVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=585</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=585</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.01]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202209/20220901n_00gAl.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비욘세가 1990년대에 바친 논문이자 러브레터 (Weverse Magazine ─ REVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=507</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=507</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.24]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/20220823qaylb2PhZcP.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[르세라핌, 쾌녀들의 비상 (Weverse Magazine ─ FIRST+VIEW)]]></title>
