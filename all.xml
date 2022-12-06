@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 02:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 03:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/202208297nTjw-Ho_7RRN.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[2022 세븐틴 MOMENT - 음악 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=588</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=588</guid>
+            <pubDate>Tue, 06 Dec 2022 03:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221205bgCo07CnYE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 방탄소년단 MOMENT - 음악 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=587</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=587</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.16]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/202211157hxN0eb.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단과 아미의 9년, 그 ‘증명의 여정’ (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=569</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=569</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.14]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221111ucwxLTN8.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[테일러 스위프트의 시대 (Weverse Magazine ─ REVIEW)]]></title>
