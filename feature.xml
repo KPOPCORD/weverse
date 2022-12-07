@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 03:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 투모로우바이투게더 MOMENT - 음악]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=589</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=589</guid>
+            <pubDate>Wed, 07 Dec 2022 03:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/202212050FeoGK8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 세븐틴 MOMENT - 음악]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=588</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Nov 2022 03:44:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.21]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221118Cm7PyF0hJ.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[진이 지구를 좋아하는 여덟 가지 방법]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=571</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=571</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.16]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/202211157hxN0eb.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
