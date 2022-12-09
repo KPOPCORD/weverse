@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 프로미스나인 MOMENT - 음악]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=592</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=592</guid>
+            <pubDate>Fri, 09 Dec 2022 03:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221206Tkl6ARR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 ENHYPEN MOMENT - 음악]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=590</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Nov 2022 03:19:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.24]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/202211223YMtbvE2fybxq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버논의 무비 플레이리스트]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=576</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=576</guid>
-            <pubDate>Tue, 22 Nov 2022 07:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221121A55biA9z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
