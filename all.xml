@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 02:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 03:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/202208297nTjw-Ho_7RRN.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[2022 르세라핌 MOMENT - 음악 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=594</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=594</guid>
+            <pubDate>Sat, 10 Dec 2022 03:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.10]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/202212079BeU-jj41K6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 프로미스나인 MOMENT - 음악 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=592</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=592</guid>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Nov 2022 03:30:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.25]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221124x6DMriFX0Zk.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 스미스가 ‘Unholy’로 넓힌 팝의 경계 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=578</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=578</guid>
-            <pubDate>Thu, 24 Nov 2022 03:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.24]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/202211223YMtbvE2fybxq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테일러 스위프트의 시대 (Weverse Magazine ─ REVIEW)]]></title>
