@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 02:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 03:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 세븐틴 MOMENT - 자체 콘텐츠]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=597</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=597</guid>
+            <pubDate>Wed, 14 Dec 2022 03:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221211RQxt8C7wO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 방탄소년단 MOMENT - 자체 콘텐츠]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=595</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Nov 2022 07:08:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.28]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221125tfupW0q1.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[RM ‘Indigo’의 뮤지션들 - 2]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=581</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=581</guid>
-            <pubDate>Sat, 26 Nov 2022 03:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.26]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221124e4Wy6kr7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
