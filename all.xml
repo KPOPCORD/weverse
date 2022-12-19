@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 06:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 07:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/202208297nTjw-Ho_7RRN.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[빌리가 여는 새로운 문, 그 속의 세계 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=607</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=607</guid>
+            <pubDate>Mon, 19 Dec 2022 07:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.19]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/202212163FL1S53c.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[2022 방탄소년단 MOMENT - 퍼포먼스 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=606</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=606</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 10 Dec 2022 03:08:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.10]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/202212079BeU-jj41K6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 프로미스나인 MOMENT - 음악 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=592</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=592</guid>
-            <pubDate>Fri, 09 Dec 2022 03:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221206Tkl6ARR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RM이 낸 길 (Weverse Magazine ─ REVIEW)]]></title>
