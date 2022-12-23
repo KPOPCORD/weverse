@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 06:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 07:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 프로미스나인 MOMENT - 퍼포먼스]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=613</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=613</guid>
+            <pubDate>Fri, 23 Dec 2022 07:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221222khqcehb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 ENHYPEN MOMENT - 퍼포먼스]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=612</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 15 Dec 2022 03:13:55 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.15]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/202212131r6MOn5CJE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용승이 바라보는 별과 우주]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=598</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=598</guid>
-            <pubDate>Wed, 14 Dec 2022 07:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221212sb9Zu150qg.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
