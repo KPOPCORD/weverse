@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 02:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 03:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 르세라핌 MOMENT - 퍼포먼스]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=614</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=614</guid>
+            <pubDate>Sat, 24 Dec 2022 03:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221222C93JR9C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 프로미스나인 MOMENT - 퍼포먼스]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=613</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 16 Dec 2022 03:08:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.16]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221214iGCRIKTCC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 투모로우바이투게더 MOMENT - 자체 콘텐츠]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=599</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=599</guid>
-            <pubDate>Thu, 15 Dec 2022 03:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.15]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/202212131r6MOn5CJE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
