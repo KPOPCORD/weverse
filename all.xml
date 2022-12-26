@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 02:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 03:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202208/202208297nTjw-Ho_7RRN.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[크림슨 하트, 허락되지 않았던 모험 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=617</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=617</guid>
+            <pubDate>Mon, 26 Dec 2022 03:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.26]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221223z_ysyD0Ct.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2022 르세라핌 MOMENT - 퍼포먼스 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=614</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=614</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 17 Dec 2022 03:08:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.17]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221215y9NRctKqhETE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 ENHYPEN MOMENT - 자체 콘텐츠 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=601</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=601</guid>
-            <pubDate>Fri, 16 Dec 2022 03:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221214iGCRIKTCC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RM이 낸 길 (Weverse Magazine ─ REVIEW)]]></title>
