@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 02:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 03:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,6 +406,14 @@
             <pubDate>Wed, 16 Nov 2022 17:16:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.14]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221013R4ttjqq8i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HYBE BOYS PERFORMANCE QUIZ (Weverse Magazine ─ SPECIAL)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=604</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=3&amp;artist=&amp;searchword=&amp;num=604</guid>
+            <pubDate>Fri, 30 Dec 2022 03:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.30]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221215WCy2-gGv4iK.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터렉티브] TXT X MBTI (Weverse Magazine ─ SPECIAL)]]></title>
