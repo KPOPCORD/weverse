@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 02:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 03:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴의 빛으로 물든 ‘약속의 장소’]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=627</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=627</guid>
+            <pubDate>Mon, 02 Jan 2023 03:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.02]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202301/20230101izgGitWnuBA0H.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[크림슨 하트, 허락되지 않았던 모험]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=617</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 18 Dec 2022 03:09:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.18]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221216XRJDsWSF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 프로미스나인 MOMENT - 자체 콘텐츠]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=603</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=603</guid>
-            <pubDate>Sat, 17 Dec 2022 03:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.17]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221215y9NRctKqhETE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
