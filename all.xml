@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 06:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 07:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202201/20220111vWXf56nPly.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[세븐틴의 숲에 오세요 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=654</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=654</guid>
+            <pubDate>Fri, 17 Feb 2023 07:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.17]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202302/20230216Zz5X_ooi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘바빌론’으로 보는 1920년대의 할리우드 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=647</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=647</guid>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 02 Dec 2022 07:08:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.02]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202212/20221201QbrSc89Sxto0_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘주토피아’ 친구들을 다시 만나자 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=580</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=580</guid>
-            <pubDate>Fri, 25 Nov 2022 07:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.25]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202211/20221124L-gMF9nspmhb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HYBE BOYS PERFORMANCE QUIZ (Weverse Magazine ─ SPECIAL)]]></title>
