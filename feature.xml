@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 06:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 07:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TXT와 EN-을 통해 보는 아이돌 캐스팅]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=695</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=695</guid>
+            <pubDate>Mon, 10 Apr 2023 07:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.10]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202304/20230407ol43tO2DS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[J. Cole, 힙합의 근본을 잊지 않는 이 시대의 랩 스타]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=693</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Mar 2023 03:09:47 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.20]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202303/20230317vbgWhYz.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나의 발로 선’ ENHYPEN의 일본에서의 도약]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=671</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=671</guid>
-            <pubDate>Wed, 15 Mar 2023 03:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.15]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202303/20230314uUmLeB-6FU.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
