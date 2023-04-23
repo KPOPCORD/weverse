@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 06:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 07:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘고잉 세븐틴’, 세븐틴이 만든 이 멋진 우주]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=704</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=704</guid>
+            <pubDate>Sun, 23 Apr 2023 07:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202304/20230421O4taA0uD0TWaO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보라가 음악으로 자신을 표현하는 법]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=702</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 03 Apr 2023 07:08:29 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.03]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202303/20230331FVNEOiT.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘날 가장 중요한 힙합 레이블, Quality Control]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=685</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=685</guid>
-            <pubDate>Wed, 29 Mar 2023 07:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.29]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202303/20230328G1BuG59P.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
