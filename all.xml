@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 02:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 03:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221027N7Vy3VRGK4Fy.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[유튜브 쇼츠, K-팝으로의 초대장 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=712</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=712</guid>
+            <pubDate>Wed, 03 May 2023 03:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202305/20230502suXqzXD.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[피프티 피프티, ‘핫 100’의 경로를 발견하다 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=707</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=707</guid>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 11 Apr 2023 03:09:10 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.11]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202304/20230410RvdcB8_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TXT와 EN-을 통해 보는 아이돌 캐스팅 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=695</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=695</guid>
-            <pubDate>Mon, 10 Apr 2023 07:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.10]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202304/20230407ol43tO2DS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지민이라는 장르 (Weverse Magazine ─ REVIEW)]]></title>
