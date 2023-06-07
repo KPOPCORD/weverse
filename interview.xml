@@ -4,9 +4,25 @@
         <title>Weverse Magazine ─ INTERVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 02:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 03:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JAEHYUN : “某天打开门，也许我们就站在门口。”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=765</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=765</guid>
+            <pubDate>Wed, 07 Jun 2023 03:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/20230605WHNqxFYmMtAAg.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[명재현 “언젠가 문을 열어보면 저희가 있지 않을까요?”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=763</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=763</guid>
+            <pubDate>Wed, 07 Jun 2023 03:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.07]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/20230605W4BnSYw.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ENHYPEN Other Cuts]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=761</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 03 Jun 2023 03:07:53 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.03]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/202306024PnTqQMfA1lv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGHOON：“我认为只要努力，就能遇见更好方向上的终点。”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=751</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=751</guid>
-            <pubDate>Fri, 02 Jun 2023 03:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.02]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/2023060135PSYr0T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성훈 “제가 열심히 하면 더 좋은 방향의 끝을 만날 수 있을 거라 생각해요”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=750</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=750</guid>
-            <pubDate>Fri, 02 Jun 2023 03:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.02]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/20230601LsE60wxA1p.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
