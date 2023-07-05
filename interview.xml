@@ -4,9 +4,25 @@
         <title>Weverse Magazine ─ INTERVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 06:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 07:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[&TEAM Other Cuts]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=814</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=814</guid>
+            <pubDate>Wed, 05 Jul 2023 07:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.05]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202307/20230704gOIIJAgBacW2V.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[&TEAM Other Cuts]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=813</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=813</guid>
+            <pubDate>Wed, 05 Jul 2023 07:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.05]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202307/20230704Mela5Fc0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MAKI：“LUNÉ们是我成长的巨大动力”]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=812</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 01 Jul 2023 03:28:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.01]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/20230629LLOwwISh.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[YUMA：“我也不知道自己体力的极限在哪里”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=803</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=803</guid>
-            <pubDate>Fri, 30 Jun 2023 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.30]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/20230629x9xGnxTm0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유마 “저도 제 체력의 한계가 어디까지인지 모르겠어요”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=802</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=802</guid>
-            <pubDate>Fri, 30 Jun 2023 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.30]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/20230629KQ_LJz_A.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
