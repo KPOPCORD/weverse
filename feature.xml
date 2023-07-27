@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 06:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 07:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정국이 ‘Seven (feat. Latto)’으로 거둔 기록들]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=835</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=835</guid>
+            <pubDate>Thu, 27 Jul 2023 07:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202307/20230726NZFqrLjlY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춤, 나나의 무기가 되다]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=834</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 08 Jul 2023 03:23:45 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.08]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202307/20230707QXJqZhdOSV7j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금, 미국에서 세븐틴과 투모로우바이투게더의 위치]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=815</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=815</guid>
-            <pubDate>Thu, 06 Jul 2023 07:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.06]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202307/20230705ojiSBM3kLW9S2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
