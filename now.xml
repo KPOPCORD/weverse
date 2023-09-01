@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 03:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 04:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남창희의 리틀 포레스트, ‘실비집’]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=861</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=861</guid>
+            <pubDate>Fri, 01 Sep 2023 04:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.01]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202308/20230831oMSBwzf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘무빙’, 이웃집 초능력자들의 세계]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=856</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Jun 2023 07:09:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.30]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/20230629zMenYaK0JBCv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나영석의 ‘나불나불’]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=786</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=786</guid>
-            <pubDate>Fri, 23 Jun 2023 03:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.23]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202306/20230621wLSUiks.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
