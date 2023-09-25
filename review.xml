@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ REVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년: 힙합이 여성을 외면해온 기간]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=880</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=880</guid>
+            <pubDate>Mon, 25 Sep 2023 03:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.25]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202309/20230921abbYera6u89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈지노와 이센스의 ‘앨범’]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=877</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Mar 2023 03:21:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.10]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202303/20230309X3puzTj.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라틴음악, 미래를 쓸 노래]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=658</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=2&amp;artist=&amp;searchword=&amp;num=658</guid>
-            <pubDate>Wed, 22 Feb 2023 03:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.22]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202302/20230221VQ-GnKGqlIi.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
