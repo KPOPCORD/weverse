@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 06:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 07:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202210/20221017TQnLGLp.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[나영석과 세븐틴의 ‘와글와글’ (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=932</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=932</guid>
+            <pubDate>Fri, 03 Nov 2023 07:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202311/20231102JuBlMF78QDk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[막내의 성장 기록, ‘은채의 스타일기’ (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=927</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=927</guid>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 25 Aug 2023 07:07:44 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.25]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202308/20230823uFyWc02-.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘알쓸별잡’이 크리스토퍼 놀란에게 하는 질문 (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=851</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=851</guid>
-            <pubDate>Fri, 18 Aug 2023 07:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.18]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202308/202308173enacA1dZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 10 Years & 10 Things That Changed the World (Weverse Magazine ─ SPECIAL)]]></title>
