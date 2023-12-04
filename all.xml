@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 02:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 03:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[츄 “오늘 만나는 사람들과 최대한 많은 사랑을 나누자고 다짐해요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=955</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=955</guid>
+            <pubDate>Mon, 04 Dec 2023 03:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202312/20231202rz0DOWI7.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DINO：“我想成为能珍惜哥哥们的人。” (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=952</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 Oct 2023 03:08:26 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.26]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202310/202310256uZo4GaQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEHYUN：“因为TOMORROW X TOGETHER就是青春” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=919</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=919</guid>
-            <pubDate>Wed, 25 Oct 2023 03:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.25]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202310/20231024XtdgSV4K4v0nC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴이 되고 싶습니다 (Weverse Magazine ─ FEATURE)]]></title>
