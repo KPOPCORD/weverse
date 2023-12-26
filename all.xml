@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 02:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 03:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202310/202310256uZo4GaQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나영석, 올해의 소통의 神 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=968</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=968</guid>
+            <pubDate>Tue, 26 Dec 2023 03:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.26]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202312/20231222B3_G1_kF6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[머라이어 캐리의 캐럴에 도전한 이 노래 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=966</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=966</guid>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Nov 2023 03:08:55 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.20]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202311/20231117HmHpBZT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효진이 말하는 온앤오프의 2막 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=929</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=929</guid>
-            <pubDate>Tue, 31 Oct 2023 03:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.31]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202310/20231030hMB5r70T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왜 Ice Spice인가?! (Weverse Magazine ─ REVIEW)]]></title>
