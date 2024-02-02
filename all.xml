@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 06:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 07:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202304/202304240NrN18l.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[‘비밀의 비밀’, 제목 안에 이야기의 답이 있다 (Weverse Magazine ─ NOW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=1012</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=1012</guid>
+            <pubDate>Fri, 02 Feb 2024 07:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.02]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201Mi0VClLY8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘시민덕희’, 위인이 된 시민 (Weverse Magazine ─ NOW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=995</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=995</guid>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 01 Dec 2023 07:08:03 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.01]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202312/20231201ldRMvZTd-.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 지역 자랑 싸움, ‘대표자’ (Weverse Magazine ─ NOW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=946</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=7&amp;artist=&amp;searchword=&amp;num=946</guid>
-            <pubDate>Fri, 24 Nov 2023 03:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.24]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202311/20231121qmgB_oY31-_Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DARK MOON (Weverse Magazine ─ SPECIAL)]]></title>
