@@ -4,9 +4,25 @@
         <title>Weverse Magazine ─ INTERVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 02:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 03:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KYUNGMIN：“就是因为自己喜欢才开始的。”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1011</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1011</guid>
+            <pubDate>Sat, 03 Feb 2024 03:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201SB-sRDRo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경민 “그냥 제가 좋아서 시작한 거예요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1010</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1010</guid>
+            <pubDate>Sat, 03 Feb 2024 03:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.03]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/2024020106pPVxSyoUHDJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YOUNGJAE：“我想成为用始终如一的面貌给予爱的人。”]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1009</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 30 Jan 2024 04:09:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.30]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240129GbidRB7t5jY.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DOHOON：“我自信的源泉是成员们。”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1000</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1000</guid>
-            <pubDate>Mon, 29 Jan 2024 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.29]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240129BUoTjf_5Qwv.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[도훈 “제 자신감의 원천은 멤버들이에요”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=998</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=998</guid>
-            <pubDate>Mon, 29 Jan 2024 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.29]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240128RSeSrTavp1f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
