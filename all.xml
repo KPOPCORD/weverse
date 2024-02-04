@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 02:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 03:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TWS Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1014</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1014</guid>
+            <pubDate>Sun, 04 Feb 2024 03:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201hPoWpj4zAIU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWS Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1013</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1013</guid>
+            <pubDate>Sun, 04 Feb 2024 03:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201DCfBzeIFqHs1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KYUNGMIN：“就是因为自己喜欢才开始的。” (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1011</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 31 Jan 2024 03:08:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.31]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/2024013008LTTsA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHINYU：“幸福不遥远，就在身边。” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1002</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1002</guid>
-            <pubDate>Tue, 30 Jan 2024 04:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.30]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240129Zc1x8W1ldOEr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신유 “행복은 멀리 있지 않고 주변에 있어요” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1001</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1001</guid>
-            <pubDate>Tue, 30 Jan 2024 04:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.30]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240129GbidRB7t5jY.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘&TEAM의 리더’ 의주를 소개합니다 (Weverse Magazine ─ FEATURE)]]></title>
