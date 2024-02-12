@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 06:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 07:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,7 +100,7 @@
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=1020</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=1020</guid>
             <pubDate>Thu, 08 Feb 2024 03:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.07]]></content:encoded>
+            <content:encoded><![CDATA[2024.02.08]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/202402075U3DPXQ4sskU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
