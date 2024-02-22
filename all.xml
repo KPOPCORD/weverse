@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 02:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 03:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SAKURA：“觉得世界艰难的瞬间，对我来说是激动。” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1027</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1027</guid>
+            <pubDate>Thu, 22 Feb 2024 03:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.22]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240221ncA6pWxnvg.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사쿠라 “세상이 어렵다고 느끼는 순간이 저에겐 설렘이에요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1026</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1026</guid>
+            <pubDate>Thu, 22 Feb 2024 03:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.22]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240221w0941zsw.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TWS Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1014</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 01 Feb 2024 03:09:17 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.01]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240130ZarA7PXOWw0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JIHOON：“我很期待未来的日子，应该会很快乐。” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1005</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1005</guid>
-            <pubDate>Wed, 31 Jan 2024 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240130TxJ2jYzG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지훈 “앞으로의 나날들이 기대되고 즐거울 것 같아요” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1004</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1004</guid>
-            <pubDate>Wed, 31 Jan 2024 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/2024013008LTTsA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테오의 한화 이글스 팬 생활 (Weverse Magazine ─ FEATURE)]]></title>
