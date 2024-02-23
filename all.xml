@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 02:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 03:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HONG EUNCHAE：“相比其他人，我更想证明给自己看。” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1029</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1029</guid>
+            <pubDate>Fri, 23 Feb 2024 03:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240222DOAhu3f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[홍은채 “누구보다 저 자신에게 증명하고 싶다는 마음이 제일 컸거든요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1028</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1028</guid>
+            <pubDate>Fri, 23 Feb 2024 03:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.23]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240222t_mVhPy.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SAKURA：“觉得世界艰难的瞬间，对我来说是激动。” (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1027</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 02 Feb 2024 03:09:31 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.02]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201XC7ru04.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HANJIN：“我想成为一个坚持不懈，努力成长的人。” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1007</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1007</guid>
-            <pubDate>Thu, 01 Feb 2024 03:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.01]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240131pJZjKpA1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한진 “꾸준히, 열심히 성장하는 사람이 되고 싶어요” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1006</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1006</guid>
-            <pubDate>Thu, 01 Feb 2024 03:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.01]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240130ZarA7PXOWw0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테오의 한화 이글스 팬 생활 (Weverse Magazine ─ FEATURE)]]></title>
