@@ -4,9 +4,25 @@
         <title>Weverse Magazine ─ INTERVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 02:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 03:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HUH YUNJIN：“似乎是LE SSERAFIM让我学会了体贴。”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1032</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1032</guid>
+            <pubDate>Sat, 24 Feb 2024 03:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240223b6LDSngqR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[허윤진 “르세라핌은 다정함을 배우게 해주는 것 같아요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1030</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1030</guid>
+            <pubDate>Sat, 24 Feb 2024 03:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.24]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240222JHVAW7Kn7F.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HONG EUNCHAE：“相比其他人，我更想证明给自己看。”]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1029</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 03 Feb 2024 03:09:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/2024020106pPVxSyoUHDJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNGJAE：“我想成为用始终如一的面貌给予爱的人。”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1009</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1009</guid>
-            <pubDate>Fri, 02 Feb 2024 03:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.02]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201lN-VFSNZHr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영재 “늘 같은 모습으로 사랑을 주는 사람이 되고 싶어요”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1008</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1008</guid>
-            <pubDate>Fri, 02 Feb 2024 03:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.02]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201XC7ru04.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
