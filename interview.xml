@@ -4,9 +4,25 @@
         <title>Weverse Magazine ─ INTERVIEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 02:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 03:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAZUHA：“我不想在这里停下来。”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1034</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1034</guid>
+            <pubDate>Sun, 25 Feb 2024 03:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.25]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240223Iwb3b6LTgDN0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카즈하 “여기서 멈추고 싶지 않다는 마음이에요”]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1033</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1033</guid>
+            <pubDate>Sun, 25 Feb 2024 03:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.25]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/202402230PiH5IONsOb.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HUH YUNJIN：“似乎是LE SSERAFIM让我学会了体贴。”]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1032</link>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 04 Feb 2024 03:08:37 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.04]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201DCfBzeIFqHs1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KYUNGMIN：“就是因为自己喜欢才开始的。”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1011</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1011</guid>
-            <pubDate>Sat, 03 Feb 2024 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.03]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201SB-sRDRo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경민 “그냥 제가 좋아서 시작한 거예요”]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1010</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1010</guid>
-            <pubDate>Sat, 03 Feb 2024 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.03]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/2024020106pPVxSyoUHDJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
