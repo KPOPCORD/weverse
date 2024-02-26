@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 02:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 03:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KIM CHAEWON：“所以说，我好像真的很喜欢这份工作。” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1036</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1036</guid>
+            <pubDate>Mon, 26 Feb 2024 03:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.26]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240223TUVzX4d7BWxs2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김채원 “그러니까, 저는 이 일을 정말 좋아하는 것 같아요” (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1035</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1035</guid>
+            <pubDate>Mon, 26 Feb 2024 03:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.26]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240223i8nE8B40Q6lx.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KAZUHA：“我不想在这里停下来。” (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1034</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 22 Feb 2024 03:09:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.22]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240221w0941zsw.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TWS Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1014</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1014</guid>
-            <pubDate>Sun, 04 Feb 2024 03:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.04]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201hPoWpj4zAIU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWS Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1013</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1013</guid>
-            <pubDate>Sun, 04 Feb 2024 03:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.04]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240201DCfBzeIFqHs1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테오의 한화 이글스 팬 생활 (Weverse Magazine ─ FEATURE)]]></title>
