@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 02:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 03:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LE SSERAFIM Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1038</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1038</guid>
+            <pubDate>Tue, 27 Feb 2024 03:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/202402260d2ZEOK2W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[르세라핌 Other Cuts (Weverse Magazine ─ INTERVIEW)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1037</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1037</guid>
+            <pubDate>Tue, 27 Feb 2024 03:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240226Yc_Z8hLpQIv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KIM CHAEWON：“所以说，我好像真的很喜欢这份工作。” (Weverse Magazine ─ INTERVIEW)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1036</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 23 Feb 2024 03:08:52 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.23]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240222t_mVhPy.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SAKURA：“觉得世界艰难的瞬间，对我来说是激动。” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1027</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1027</guid>
-            <pubDate>Thu, 22 Feb 2024 03:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.22]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240221ncA6pWxnvg.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사쿠라 “세상이 어렵다고 느끼는 순간이 저에겐 설렘이에요” (Weverse Magazine ─ INTERVIEW)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1026</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=1&amp;artist=&amp;searchword=&amp;num=1026</guid>
-            <pubDate>Thu, 22 Feb 2024 03:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.22]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240221w0941zsw.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[테오의 한화 이글스 팬 생활 (Weverse Magazine ─ FEATURE)]]></title>
