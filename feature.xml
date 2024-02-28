@@ -4,9 +4,17 @@
         <title>Weverse Magazine ─ FEATURE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 02:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 03:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이서연, 올라운더 아이돌]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=1040</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=1040</guid>
+            <pubDate>Wed, 28 Feb 2024 03:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.28]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240227TPuZO02SUW.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[썸 41, 21세기 유쾌한 악동들의 마지막 인사]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=1039</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Feb 2024 02:16:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.17]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240116wv5r88WH00cS9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허윤진의 인스타그램 꾸미기]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=987</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=987</guid>
-            <pubDate>Mon, 19 Feb 2024 02:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.15]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/20240112XGZqmkFXP0J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
