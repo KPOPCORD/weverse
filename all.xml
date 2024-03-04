@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 01:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 02:57:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240222t_mVhPy.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[틱톡으로 보는 K-팝 숏폼 트렌드 5가지 (Weverse Magazine ─ FEATURE)]]></title>
+            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=1047</link>
+            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=1047</guid>
+            <pubDate>Mon, 04 Mar 2024 02:57:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.04]]></content:encoded>
+            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202402/20240229ERbgg0ZyzY7z.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[[BEHIND SHORTS] ‘언플러그드 보이’ 천계영 작가와 TWS의 첫 만남 (Weverse Magazine ─ FEATURE)]]></title>
             <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=1041</link>
             <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=1041</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Jan 2024 03:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.24]]></content:encoded>
             <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/202401236t_mL6zkUrYyA.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[BEHIND SHORTS] ‘슈취타’ 제작진에게 듣는 아이유 출연 비하인드 (Weverse Magazine ─ FEATURE)]]></title>
-            <link>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=990</link>
-            <guid>https://magazine.weverse.io/article/view?lang=ko&amp;colca=6&amp;artist=&amp;searchword=&amp;num=990</guid>
-            <pubDate>Mon, 22 Jan 2024 03:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22]]></content:encoded>
-            <enclosure url="https://cdn-contents.magazine.weverse.io/upload/img/202401/202401189XtnkvgmQS8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실리카겔, 언제나 새롭고 용감한 밴드 (Weverse Magazine ─ REVIEW)]]></title>
